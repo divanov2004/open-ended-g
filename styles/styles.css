@@ -10,8 +10,9 @@ p {
 a {
   color: red;
   font-style: normal;
+  text-decoration: none;
 }
 
 a:hover {
-  font-style: underline;
+  text-decoration: underline;
 }
